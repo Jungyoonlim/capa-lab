@@ -1,6 +1,12 @@
 # Capa Lab
 
-An adaptive learning engine that builds and evolves curricula from learner performance data. Instead of static course structures, the curriculum itself learns from the learner.
+> **The curriculum is a hypothesis that gets tested by every session.**
+>
+> When learners consistently can't bridge from layer 1 to layer 2, that's not a learner failure — it's a curriculum failure. The system detects this and proposes fixes automatically.
+>
+> **The curriculum learns from the learner.**
+
+Most AI tutoring tools follow a fixed path: a human designs the curriculum, AI delivers it, the learner consumes it. If the structure is wrong, a human has to notice and rewrite it. Capa Lab closes that loop — assessment data flows back into curriculum structure, so the knowledge decomposition itself evolves based on evidence.
 
 ## What it does
 
